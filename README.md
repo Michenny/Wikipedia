@@ -19,8 +19,8 @@
             </main> 
             <footer style="background-color:gray">
               <p style="color:yellow"> Номер телефону 0984965228</p>
-              <a href="https://www.instagram.com/stalker2_thegame/"style="color:yellow;text-align:center;">сторінка розробників в інстаграмі<br/></a>
-             <a href="https://www.stalker2.com/uk"style="color:yellow">предзамовлення гри</a>
+              <p><a href="https://www.instagram.com/stalker2_thegame/"style="color:yellow;text-align:center;">сторінка розробників в інстаграмі<br/></a></p>
+             <a href="https://www.stalker2.com/uk"style="color:yellow">предзамовлення гри </a>
             </footer>
     </body>        
 </html>
