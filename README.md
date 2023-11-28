@@ -1,6 +1,5 @@
 # Wikipedia
 <html>
-    <title>Історія від Сидоровича</title>
     <body style="background-color:black;font-family:;">
         <header style="background-color:gray">
            <img src="http://sstalkerr.do.am/icons/ODuHo4Ku.jpg"height="30"/> 
